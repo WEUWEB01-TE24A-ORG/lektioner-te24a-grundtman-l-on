@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategrey;
+    background-image: url(./bilder/flowers_love.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: darkturquoise;
+    font-size: 41;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(74, 199, 184);
+    font-size: 23px;
+    font-family: cursive;
+}
