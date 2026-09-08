@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Shadows+Into+Light&display=swap');
+
+body {
+    font-family: "Permanent Marker", cursive;
+    background-image: url(./bilder/sommar-bilr.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Permanent Marker", cursive;
+    color: rgb(53, 54, 54);
+    margin-left: 600px;
+
+}
+
+h2 {
+    font-family: "Shadows Into Light", cursive;
+    color: rgb(53, 54, 54);
+    margin-left: 670px;
+;
+
+}
+
+p {
+    font-family: "Shadows Into Light", cursive;
+    color: rgb(53, 54, 54);
+    margin-left: 510px;
+    background-color: rgba(194, 195, 195, 0.512);
+    width: 389px;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+a {
+
+}
