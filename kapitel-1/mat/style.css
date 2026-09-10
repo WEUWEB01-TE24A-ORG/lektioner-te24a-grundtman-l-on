@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+
+body{
+    
+}
+
+table{
+    background-color: rgb(176, 133, 63);
+}
+
+caption{
+    background-image: url(./bilder/checkers_red.jpg);
+    font-size: 50px;
+    padding: 10px;
+    font-family: "Merienda", cursive;
+
+}
+
+tr{
+   font-family: "Simonetta", serif;
+ 
+}
+
+th{
+    font-size: 25px;
+    padding: 10px;
+}
+
+td{
+    font-size: 15px;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+}
