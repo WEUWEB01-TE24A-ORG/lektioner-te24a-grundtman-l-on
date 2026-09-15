@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
+
+body{
+    background-image: url(./bilder/louise-smith-_n3uNLUh6hU-unsplash\ \(1\).jpg);
+    background-size: auto;
+
+}
+
+h1{
+    color: aliceblue;
+    font-size: 55px;
+    font-family: "Momo Trust Display", sans-serif;
+    margin-left: 500px;
+    margin-right: 100px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 0 rgb(6, 64, 141);
+
+}
+
+h2{
+    color: aliceblue;
+    font-size: 35px;
+    font-family: "Momo Trust Display", sans-serif;
+    text-transform: uppercase;
+    margin-left: 475px;
+    text-shadow: 3px 3px 0 rgb(6, 64, 141);
+
+}
+
+p{
+    background-color: rgb(0, 38, 255);
+    width: 75px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 850px;
+    margin-top: 125px;
+
+}
+
+a{
+    color: aliceblue;
+    font-family: "Momo Trust Display", sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a:hover{
+    color: rgb(82, 167, 236);
+}
+
+p:hover{
+   background-color: rgb(0, 20, 134); 
+}
