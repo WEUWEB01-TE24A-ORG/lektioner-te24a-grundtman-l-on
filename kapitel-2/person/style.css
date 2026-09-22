@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    background-image: url(./bilder/metal-gear-solid-delta-how-long-to-beat-header.avif);
+
+}
+
+h1{
+    margin-left: 500px;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: 2px 2px 0 rgb(62, 81, 107);
+
+}
+
+img{
+    margin-left: 500px;
+
+}
+
+p{
+    margin-left: 500px;
+    width: 400px;
+    padding: 10px;
+    background-color: rgba(240, 248, 255, 0.657);
+    border-radius: 7px;
+    font-family: "Quantico", sans-serif;
+
+}
+
+table{
+    background-color: rgba(240, 248, 255, 0.657);
+    margin-left: 340px;
+    border-radius: 7px;
+    font-family: "Quantico", sans-serif;
+
+}
+
+caption{
+    background-color: rgba(240, 248, 255, 0.657);
+    border-radius: 7px;
+    font-family: "Quantico", sans-serif;
+
+}
+
+tr{
+    
+}
+
+th{
+    
+}
+
+td{
+    padding: 7px;
+    
+}
+
+a{
+    
+}
