@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+}
+div{
+    background-image: url(./bilder/seafairy7-p417-X8z1HE-unsplash.jpg);
+    background-size: cover;
+    background-position-y: -90px;
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    border-radius: 15px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 0px #9c9879;
+}
+
+h1{
+    color: #fffff0;
+    font-family: "Iceland", sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 10px #9c9879;
+}
+
+h2{
+    color: #fffff0;
+    font-family: "Iceland", sans-serif;
+    font-size: 30px;
+    text-shadow: 0px 0px 10px #9c9879;
+}
+
+p{
+    color: #fffff0;
+    font-family: "Iceland", sans-serif;
+    font-size: 20px;
+    margin-top: 3px;
+    text-shadow: 0px 0px 10px #9c9879;
+}
+
