@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+:root{
+    --deep-space-blue: #002642ff;
+    --dark-amaranth: #840032ff;
+    --golden-orange: #e59500ff;
+    --dust-grey: #e5dadaff;
+    --ink-black: #02040fff;
+}
+
+body{
+
+}
+
+div.sida{
+    padding: 10px;
+    background-color: #840032ff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 700px;
+
+}
+
+h1{
+    font-family: "Liu Jian Mao Cao", cursive;
+
+}
+
+div.inlagg{
+    background-color: rgb(168, 35, 86);
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+img{
+    border-color: #e59500ff;
+    border-width: 4px;
+    border-style: solid;
+}
+
+h2{
+
+}
+
+p.datum{
+
+}
+
+p{
+
+}
